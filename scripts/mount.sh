@@ -1,4 +1,6 @@
 #!/bin/bash
+# 此脚本用来挂载
+
 mnt() {
 	echo "MOUNTING"
 	sudo mount -t proc /proc ${2}proc
