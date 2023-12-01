@@ -1,1 +1,5 @@
 ubuntu_rootfs/
+ubuntu_base_rootfs/
+
+img/
+!img/.gitkeep
