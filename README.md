@@ -72,9 +72,9 @@ git clone git@github.com:Skeeser/RKUbuntu22.04.git
 
 ### 3. 下载根文件系统
 
-网址: 
-链接：https://pan.baidu.com/s/15KDSKmiGe73ncGHUSfngAA 
-提取码：scut 
+网址:  
+链接：https://pan.baidu.com/s/15KDSKmiGe73ncGHUSfngAA  
+提取码：scut  
 
 
 
